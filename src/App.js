@@ -13,7 +13,6 @@ function App() {
           Learn React
         </a>
       </header>
-      <div>hi</div>
     </div>
   );
 }
